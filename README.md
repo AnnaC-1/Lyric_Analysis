@@ -3,4 +3,5 @@ A personal project to continue practicing Python skills and to learn a bit about
 
 
 
-PERSONAL NOTE...RUN Web_Scraping (~2.5 hours) and then once done add to here. 
+PERSONAL NOTE...
+  RUN Web_Scraping (~2.5 hours) and then once done add to here. 
